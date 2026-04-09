@@ -13,7 +13,7 @@
     "url": "git+https://github.com/alexfuji/eslint-base-config.git"
   },
   "keywords": ["eslint", "config", "typescript"],
-  "author": "Alex Fujimura",
+  "author": "Alex Fuji",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alexfuji/eslint-base-config/issues"
