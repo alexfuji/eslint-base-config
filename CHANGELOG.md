@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.10](https://github.com/alexfuji/eslint-base-config/compare/v1.0.9...v1.0.10) (2026-04-09)
+
+
+### Bug Fixes
+
+* update install command in workflow ([eed7117](https://github.com/alexfuji/eslint-base-config/commit/eed7117b922b62915e57d2ca266e3de38f5fa4f9))
+
 ## [1.0.9](https://github.com/alexfuji/eslint-base-config/compare/v1.0.8...v1.0.9) (2026-04-09)
 
 
