@@ -5,12 +5,14 @@ Base ESLint configuration for JavaScript/TypeScript projects using flat config (
 ## Configuration
 
 **1. Create `.env` file in project root:**
-```
+
+```bash
 GITHUB_TOKEN=your_github_token
 ```
 
 **2. Add to `.npmrc`:**
-```
+
+```bash
 @alexfuji:registry=https://npm.pkg.github.com/
 //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
 ```
