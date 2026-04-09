@@ -1,0 +1,25 @@
+{
+  "name": "@alexfuji/eslint-base-config",
+  "version": "1.0.0",
+  "description": "Base ESLint configuration for JavaScript/TypeScript projects",
+  "type": "module",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfuji/eslint-base-config.git"
+  },
+  "keywords": ["eslint", "config", "typescript"],
+  "author": "Alex Fujimura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexfuji/eslint-base-config/issues"
+  },
+  "homepage": "https://github.com/alexfuji/eslint-base-config#readme",
+  "dependencies": {
+    "@eslint/js": "^9.0.0",
+    "typescript-eslint": "^8.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
