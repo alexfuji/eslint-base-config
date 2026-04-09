@@ -1,6 +1,6 @@
 {
   "name": "@alexfuji/eslint-base-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base ESLint configuration for JavaScript/TypeScript projects",
   "type": "module",
   "main": "eslint.config.js",
